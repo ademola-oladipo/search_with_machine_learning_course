@@ -2,6 +2,7 @@ data/computer_products*
 data/pruned_products*
 data/phone_products*
 *.iml
+.vscode/
 .idea
 data/phone_products/phone_products.xml
 output/
